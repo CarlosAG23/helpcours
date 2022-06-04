@@ -1,0 +1,22 @@
+[23-May-2022 20:55:19 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 20:55:19 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 20:58:27 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 20:58:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:00:23 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:00:23 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:01:00 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:01:00 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:02:27 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:02:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:05:20 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:05:20 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:11:11 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:11:11 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:11:44 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:11:44 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:11:46 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:11:46 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:11:47 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:11:47 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
+[23-May-2022 21:13:10 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/helpcour/public_html/includes/dbconnection.php on line 2
+[23-May-2022 21:13:10 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/helpcour/public_html/citas.php on line 3
