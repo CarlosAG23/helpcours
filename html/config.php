@@ -1,9 +1,9 @@
 <?php 
 
-$server = "localhost";
-$user = "helpcour_admin";
+$server = "";
+$user = "";
 $pass = "";
-$database = "helpcour_login_register_pure_coding";
+$database = "";
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 
