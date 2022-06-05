@@ -1,5 +1,5 @@
 <?php
-$conn = new mysqli("localhost","helpcour_admin","@helpcours4","helpcour_login_register_pure_coding");
+$conn = new mysqli("","","","");
 	
 	if($conn->connect_errno)
 	{
